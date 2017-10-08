@@ -1,0 +1,25 @@
+.headertekst {
+  text-align: center;
+}
+  .font {
+    font-size:50px;
+  }
+  .imgsize{
+    height: 400px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  li div{
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+li span{
+    display: table-cell;
+    vertical-align: middle;
+}
+body {
+  margin-top: 50px;
+}
